@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+#tarolo{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+div{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+
+img{
+    width: 100%;
+}
